@@ -1,7 +1,6 @@
 #/bin/sh
  
 ##########################################################################################################################
-#courtesy of http://www.c-note.dk/2011/12/04/wmware-esxi-suspend-all-guests/
 #
 #copy this file somewhere to datastore
 #e.g. ‘/vmfs/volumes/myDataStore/scripts/’
